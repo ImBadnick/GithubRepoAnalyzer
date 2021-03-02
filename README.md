@@ -22,5 +22,6 @@ To use GithubRepoAnalyzer you need to:
 3) Install the dependencies on the virtualenv: pip install -r requirements.txt
 
 At this point you can add repo to the **_repo.json_** file manually or with the menù option. <br>
+Fill the **_config.json_** file with the information needed -> You need to generate a **_githubAccessToken_** first! 
 Then you can save the stats with the **_RepoAnalyzer_** script or display the stats saved with the **_DisplayStats_** script. 
 
