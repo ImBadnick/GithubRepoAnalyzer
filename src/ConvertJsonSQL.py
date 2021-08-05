@@ -3,7 +3,7 @@ import mysql.connector
 from mysql.connector import Error
 
 
-f = open('RepoData.json')
+f = open('../RepoData.json')
 data = json.load(f)
 
 try: 
