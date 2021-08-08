@@ -69,4 +69,4 @@ CREATE TABLE `Views` (
 7) Finish! Now you should see it in the "DashBoard" panel! 
 
 DashboardExample
-![DashBoardExemple](./Images/DataDashboardExample.png)
+![DashBoardExample](./Images/DataDashboardExample.png)
